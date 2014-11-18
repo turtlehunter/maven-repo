@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>turtlehunter</groupId>
+  <artifactId>annotationUtils</artifactId>
+  <versioning>
+    <versions>
+      <version>1.0-SNAPSHOT</version>
+    </versions>
+    <lastUpdated>20141118132343</lastUpdated>
+  </versioning>
+</metadata>
